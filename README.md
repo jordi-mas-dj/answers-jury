@@ -6,3 +6,4 @@ Configuration, keys or .env:
 - OPENAI_API_KEY
 
 For Claude, you need to have claude cli installed.
+https://code.claude.com/docs/en/quickstart
