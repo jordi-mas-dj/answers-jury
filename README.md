@@ -1,5 +1,8 @@
 # answers-jury
 
+<img width="696" height="710" alt="Captura de pantalla 2026-03-30 a les 12 38 26" src="https://github.com/user-attachments/assets/cc71a87b-2985-4a90-89dd-20530c5439f7" />
+
+
 ## Setup
 
 ### Prerequisites
